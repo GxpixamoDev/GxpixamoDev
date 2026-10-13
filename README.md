@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GxpixamoDev/GxpixamoDev/output/snake.svg" alt="Snake animation" />
+
 
 ###
