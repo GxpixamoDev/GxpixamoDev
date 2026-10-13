@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Gxpixamo and I'm a ..., from my world!</h1>
+<h1 align="left">Hi 👋! My name is Gxpixamo and I'm from my world!</h1>
 
 ###
 
